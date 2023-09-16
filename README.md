@@ -1,3 +1,3 @@
 # projeto_mvc_alunoMedia
 É um método utilizado para gerir notas e calcular medias.
-Otimizando tempo.
+Pegando todos os números informados e fazendo a média das somas.
